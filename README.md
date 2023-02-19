@@ -1,4 +1,10 @@
-### Hi there 👋
+### GREETINGS!
+
+I'm a software engineer in NYC. My focus is on frontend engineering, but I've recently been doing more LeetCode and system design to round out my knowledge. I also have interest in game development. However, I'm unsure of where to start. Any tips would be appreciated.
+
+If you have any questions or would like to collaborate, feel free to reach out to me.
+
+**I'm currently available for hire!**
 
 <!--
 **penspinner/penspinner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
